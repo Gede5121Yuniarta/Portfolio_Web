@@ -1,0 +1,69 @@
+/* Gaya untuk body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Gaya untuk container */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Gaya untuk judul */
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Gaya untuk label */
+label {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Gaya untuk form group */
+.form-group {
+    margin-bottom: 15px;
+}
+
+/* Gaya untuk select box */
+.form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Gaya untuk tombol */
+.btn-primary {
+    background-color: #0070c0;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: #0050a0;
+}
+
+/* Gaya untuk hasil */
+p {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+/* Gaya untuk div hasil */
+#result {
+    font-size: 20px;
+    font-weight: bold;
+    color: #0070c0;
+    margin-top: 10px;
+}

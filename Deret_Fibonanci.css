@@ -1,0 +1,46 @@
+/* Gaya untuk body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Gaya untuk container */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Gaya untuk judul */
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Gaya untuk form */
+.form-group {
+    margin-bottom: 10px;
+}
+
+/* Gaya untuk tombol */
+.btn-primary {
+    background-color: #0070c0;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: #0050a0;
+}
+
+/* Gaya untuk hasil */
+p {
+    font-size: 18px;
+    margin-top: 20px;
+}
